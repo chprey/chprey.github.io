@@ -324,7 +324,6 @@ h1.title {
 	font-size: 50px;
 	line-height: 59px;
 	width: 100%;
-	max-width: 600px;
 	margin: 0 0 32px;
 	text-transform: uppercase;
 }
@@ -575,7 +574,6 @@ footer .social .linkedin {
 		font-size: 36px;
 		line-height: 42px;
 		margin: 0 0 16px 0;
-		max-width: 440px;
 	}
 
 	.about-work .text-group .text {
@@ -755,7 +753,6 @@ footer .social .linkedin {
 	.about-work .text-group h3 {
 		font-size: 24px;
 		line-height: 28px;
-		max-width: 265px;
 	}
 
 	.about-work .text-group .text {
@@ -994,7 +991,6 @@ footer .social .linkedin {
 		font-size: 20px;
 		line-height: 24px;
 		margin: 0 0 8px 0;
-		max-width: 220px;
 	}
 
 	.about-work .text-group .text {
